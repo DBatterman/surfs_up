@@ -18,4 +18,8 @@ Using our results, we can draw these conclusions:
 
 - The mean temperature in December is roughly three degrees lower than the mean temperature in June.
 - The max temperature in December is only two degrees lower than the max temperature in June.
-- The min temperature in December is a whopping eight degrees lower than the min temperature in June. 
+- The min temperature in December is eight degrees lower than the min temperature in June. 
+
+## Summary
+
+For the most part, it seems that there isn't much of a fluxuation in the temperatures between June and December in terms of the mean. So if we think these temperuatures are right to sell ice cream in June, the change in seasons shouldn't affect sales that much. In order to get even more information, we could make a query to look at the percipitation data during these months as rain wil also likely affect how much ice cream will sell. We could also do queries for specific weather stations on Oahu to see which part of the island would have the best temperatures for our ice cream shop.
